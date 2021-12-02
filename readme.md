@@ -6,5 +6,7 @@ We have not programmed this app to collect any personally identifiable informati
 
 Best regards,
 Proggr Kim
+
 from ChillOtters company
+
 proggrkim@gmail.com
